@@ -1,0 +1,4 @@
+com/hy/plugin/CustomizedCommentPlugin.class
+com/hy/plugin/ProcessHandler.class
+com/hy/plugin/OverIsMergeablePlugin.class
+com/hy/contrains/PropertyRegistry.class
