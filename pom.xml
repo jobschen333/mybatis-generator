@@ -4,9 +4,9 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.yunji.jr</groupId>
+    <groupId>com.meizhuliu</groupId>
     <artifactId>mybatis-generator</artifactId>
-    <version>0.1.0</version>
+    <version>1.0.0</version>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -50,18 +50,5 @@
         </plugins>
     </build>
 
-
-    <distributionManagement>
-        <repository>
-            <id>nexus</id>
-            <name>yunji-releases</name>
-            <url>http://nexus.yunjiglobal.com/repository/yunji-releases/</url>
-        </repository>
-        <snapshotRepository>
-            <id>nexus</id>
-            <name>yunji-snapshots</name>
-            <url>http://nexus.yunjiglobal.com/repository/yunji-snapshots/</url>
-        </snapshotRepository>
-    </distributionManagement>
 
 </project>
